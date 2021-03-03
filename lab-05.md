@@ -1,7 +1,7 @@
 Lab 05 - Nobel laureates
 ================
 
-Team Name:G56667
+Team Name:G5666788
 
 Team Members - Name and Student ID
 
@@ -14,6 +14,9 @@ Load tidyverse below
 ``` r
 library(tidyverse)
 ```
+
+    ## Warning in system("timedatectl", intern = TRUE): running command 'timedatectl'
+    ## had status 1
 
 ## Data
 
